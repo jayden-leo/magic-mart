@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ac3a85d-8e83-44f5-8ff7-835c6ff906c9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="COMPILER_PROCESS_ADDITIONAL_VM_OPTIONS" value="-Djps.track.ap.dependencies=false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YOhad6oIguC5DPDir0YfMaG5EL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/Java/magic-mart/magic-mart/magic-mart-app",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "spring.configuration.checksum": "22ee810834a7201a999a00cf8a1bba12"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\magic-mart\magic-mart\renren-fast\src\main\resources" />
+      <recent name="E:\Java\magic-mart\magic-mart\mall-coupon\src\main\resources" />
+      <recent name="E:\Java\magic-mart\magic-mart\mall-member\src\main\resources" />
+      <recent name="E:\Java\magic-mart\magic-mart\mall-ware\src\main\resources" />
+      <recent name="E:\Java\magic-mart\magic-mart\mall-product\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jayden.common.validator.group" />
+      <recent name="com.jayden.common.utils" />
+      <recent name="com.jayden.common.exception" />
+      <recent name="com.jayden.common.xss" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MallGatewayApplication">
+    <configuration name="MallProductApplicationTests.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jayden.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jayden.product" />
+      <option name="MAIN_CLASS_NAME" value="com.jayden.product.MallProductApplicationTests" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallProductApplicationTests.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jayden.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jayden.product" />
+      <option name="MAIN_CLASS_NAME" value="com.jayden.product.MallProductApplicationTests" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallProductApplicationTests.selectById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jayden.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jayden.product" />
+      <option name="MAIN_CLASS_NAME" value="com.jayden.product.MallProductApplicationTests" />
+      <option name="METHOD_NAME" value="selectById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jayden.coupon.MallCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jayden.mallgateway.MallGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jayden.member.MallMemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jayden.order.MallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jayden.product.MallProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-ware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jayden.ware.MallWareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-fast" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MallProductApplicationTests.selectById" />
+        <item itemvalue="JUnit.MallProductApplicationTests.selectAll" />
+        <item itemvalue="JUnit.MallProductApplicationTests.insert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ac3a85d-8e83-44f5-8ff7-835c6ff906c9" name="Changes" comment="" />
+      <created>1700402602542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700402602542</updated>
+      <workItem from="1700402603749" duration="6820000" />
+      <workItem from="1700409765321" duration="5209000" />
+      <workItem from="1700449267177" duration="21000" />
+      <workItem from="1700457522878" duration="11037000" />
+      <workItem from="1700555378516" duration="12914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
